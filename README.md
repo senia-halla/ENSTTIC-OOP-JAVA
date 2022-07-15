@@ -7,3 +7,9 @@ Object-Oriented programming is a relatively new programming paradigm (approach).
 
 
 Indeed, a computer program always includes processing, but also and above all data. If structured programming is interested in processing then in data, object design is first interested in data, to which it then associates processing.
+
+Here you can found my solutions of the practical works, which includ : 
+* Generalities of the Java programming language
+* Class and Object in Java
+* Inheritance, Polymorphism, Abstract Classes and Interfaces in Java
+* Collections, Exceptions and Input/output flow Management in Java
