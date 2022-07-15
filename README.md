@@ -1,5 +1,5 @@
 # ENSTTIC-OOP-JAVA
-This course is provided within the national higher school of telecommunications and ICT **-ENSTTIC-** during the **3th year** of the state engineering course in telecommunications
+This course is provided within the national higher school of telecommunications and ICT **-ENSTTIC-** during the **3rd year** of the state engineering course in telecommunications
 
 Object-Oriented programming is a relatively new programming paradigm (approach). It represents another way of apprehending the problems, above all by asking the questions:
 * Who is affected by the problem ?
